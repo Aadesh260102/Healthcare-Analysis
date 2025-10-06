@@ -14,6 +14,19 @@ This Power BI project provides an interactive **Healthcare Analysis Dashboard** 
 - **Follow-up Rate:** Monitor follow-up vs. no follow-up cases (with donut chart).
 - **Interactive Filters:** Users can navigate between Overview and Detail View, and search for patient details.
 
+### Overview 
+[Dashboard Screenshot 1]
+<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/user-attachments/assets/cfa71a2b-2733-4ba2-9f13-5b1dfea852c1" />
+
+### 📊 Detailview  
+[Dashboard Screenshot 2]
+<img width="1562" height="862" alt="Dashboard 2" src="https://github.com/user-attachments/assets/598c32d8-5f80-4871-9b5c-5c265b4bd1b3" />
+
+### 🌍 Patient Search Detail
+[Dashboard Screenshot 3]
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
+
+
 ## 🛠 Tools & Techniques
 
 - **Power BI** for dashboard design and interactivity.
