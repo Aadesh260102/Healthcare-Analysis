@@ -1,51 +1,88 @@
-# USA Healthcare Analysis Dashboard
+<h1 align="center" style="font-size:60px;">🏥 USA Healthcare Analysis Dashboard 🏥</h1>
 
-This Power BI project provides an interactive **Healthcare Analysis Dashboard** for visualizing key metrics about patient visits, treatment costs, and medical specialties in the USA.
+---
 
-## 📊 Features
+## 📌 Overview
+The **USA Healthcare Analysis Dashboard** provides a comprehensive view of healthcare operations, patient visits, doctor specialization, and treatment trends.  
+This project was created in **Power BI** to help analyze and monitor **hospital performance, patient demographics, and cost efficiency** across the healthcare system.
 
-- **Count of Patients:** Total patients visited this year (1107 in the sample data).
-- **Visit Cancellation Rate:** Track cancelled appointments (33.44% in the sample data).
-- **Average Treatment Cost:** Monitor average cost per treatment ($524.75).
-- **Lab Results Overview:** View percentage distribution of test results – Abnormal, Pending, Normal.
-- **Specialty-wise Doctors:** Analyze doctor availability across departments like General Medicine, Pediatrics, Orthopedics, Cardiology, and Neurology.
-- **Reason for Visit & Prescribed Medications:** Check top reasons (Flu, Emergency, Follow-up, Chronic Pain, Routine Checkup) and medications (Antibiotics, Ibuprofen, Insulin, Painkillers).
-- **Gender-wise Patients:** Compare patient counts by gender and other categories.
-- **Follow-up Rate:** Monitor follow-up vs. no follow-up cases (with donut chart).
-- **Interactive Filters:** Users can navigate between Overview and Detail View, and search for patient details.
+---
 
-### Overview 
-[Dashboard Screenshot 1]
-<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/user-attachments/assets/cfa71a2b-2733-4ba2-9f13-5b1dfea852c1" />
+## 🎯 Objectives
+- Track **total patients, doctors, hospitals**, and **visits**
+- Analyze **chronic conditions, allergies**, and **patient demographics**
+- Monitor **visit cancellations**, **follow-up rates**, and **average treatment costs**
+- Evaluate **doctor workloads** and **specialty distributions**
+- Provide **state-wise and gender-wise insights**
+- Enable **detailed patient search** for personalized healthcare tracking
 
-### 📊 Detailview  
-[Dashboard Screenshot 2]
-<img width="1562" height="862" alt="Dashboard 2" src="https://github.com/user-attachments/assets/598c32d8-5f80-4871-9b5c-5c265b4bd1b3" />
+---
 
-### 🌍 Patient Search Detail
-[Dashboard Screenshot 3]
-<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
+## 📊 Key Performance Indicators (KPIs)
+1. **Total Patients:** 10K  
+2. **Total Doctors:** 1K  
+3. **Total Hospitals:** 1K  
+4. **Average Age:** 49 years  
+5. **Doctor Workload:** 10 Patients/Doctor  
+6. **Total Treatment Cost:** $5.25M (↑18.4% from last month)  
+7. **Follow-Up Rate:** 50.16%  
+8. **Visit Cancelled Rate:** 33.44%  
 
+---
 
-## 🛠 Tools & Techniques
+## 🧠 Dashboard Insights
 
-- **Power BI** for dashboard design and interactivity.
-- **Power Query** for data transformation.
-- **Data Modeling** to connect patient, doctor, and visit tables.
-- **DAX** to calculate KPIs such as visit cancellations, treatment costs, and follow-up rates.
+### 1️⃣ Overview Page  
+This page summarizes the overall healthcare statistics, including patient demographics, chronic conditions, and costs across the USA.
 
-## 🚀 How to Use
+<img width="1560" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/OVERVIEW.png" />
 
-1. Download the `.pbix` file of the dashboard.
-2. Open it in **Power BI Desktop**.
-3. Connect to your own healthcare data sources if needed.
-4. Use the Overview and Detail View tabs, slicers, and filters to explore insights.
+---
 
-## 📁 File Structure
+### 2️⃣ Detail View  
+This page highlights detailed analysis of lab results, doctor specialties, gender distribution, and medication prescriptions.
 
-- `Healthcare_Analysis.pbix` – Main Power BI dashboard file.
-- `Screenshot.png` – Dashboard preview image.
+<img width="1560" alt="Detail View Dashboard" src="https://github.com/user-attachments/assets/DETAILVIEW.png" />
 
-## 📝 Author
+---
 
-Created by **Aadesh Botre** – Power BI Developer / Data Analyst.
+### 3️⃣ Patient Search Details  
+A patient-level report that provides quick access to individual patient information, including medical history, allergies, chronic conditions, and visit details.
+
+<img width="1560" alt="Patient Search Details" src="https://github.com/user-attachments/assets/Patient%20Search%20Details.png" />
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI** – Dashboard Creation & Data Visualization  
+- **DAX** – For Calculations and KPI Measures  
+- **Power Query** – For Data Cleaning & Transformation  
+- **Excel/CSV** – For Data Source Management  
+
+---
+
+## 📈 Key Visuals Used
+- KPI Cards  
+- Donut and Pie Charts  
+- Stacked Bar Charts  
+- Tree Map  
+- Map Visualization (State-wise Analysis)  
+- Search & Filter Panels  
+
+---
+
+## 💡 Project Highlights
+- Fully interactive Power BI report  
+- Clear **navigation tabs** for Overview, Detail View, and Patient Search  
+- **Dynamic filtering** by chronic conditions, gender, state, and visit type  
+- Supports **drill-down analysis** for in-depth insights  
+
+---
+
+## 🙌 Author
+Created by **[Aadesh Botre]**  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aadesh-botre-data-analytics/)  
+
+---
+
+⭐ *If you like this dashboard, don't forget to give it a star on GitHub!*
