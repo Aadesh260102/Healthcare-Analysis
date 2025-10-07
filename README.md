@@ -43,14 +43,14 @@ This page summarizes the overall healthcare statistics, including patient demogr
 ### 2️⃣ Detail View  
 This page highlights detailed analysis of lab results, doctor specialties, gender distribution, and medication prescriptions.
 
-<img width="1560" alt="Detail View Dashboard" src="https://github.com/user-attachments/assets/DETAILVIEW.png" />
+<img width="1560" alt="Detail View Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/DETAILVIEW.png" />
 
 ---
 
 ### 3️⃣ Patient Search Details  
 A patient-level report that provides quick access to individual patient information, including medical history, allergies, chronic conditions, and visit details.
 
-<img width="1560" alt="Patient Search Details" src="https://github.com/user-attachments/assets/Patient%20Search%20Details.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Patient%20Search%20Details.png" />
 
 ---
 
