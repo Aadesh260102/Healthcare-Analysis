@@ -35,7 +35,8 @@ This project was created in **Power BI** to help analyze and monitor **hospital 
 ### 1️⃣ Overview Page  
 This page summarizes the overall healthcare statistics, including patient demographics, chronic conditions, and costs across the USA.
 
-<img width="1560" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/OVERVIEW.png" />
+<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/OVERVIEW.png" />
+
 
 ---
 
