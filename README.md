@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 The **USA Healthcare Analysis Dashboard** provides a comprehensive view of healthcare operations, patient visits, doctor specialization, and treatment trends.  
-This project was created in **Power BI** to help analyze and monitor **hospital performance, patient demographics, and cost efficiency** across the healthcare system.
+This project was created to help analyze and monitor **hospital performance, patient demographics, and cost efficiency** across the healthcare system.
 
 ---
 
@@ -86,10 +86,10 @@ A patient-level report that provides quick access to individual patient informat
 
 
 ## 🛠 Tools & Technologies
-- **Power BI** – Dashboard Creation & Data Visualization  
+- **Power BI & Tableau** – Dashboard Creation & Data Visualization  
 - **DAX** – For Calculations and KPI Measures  
 - **Power Query** – For Data Cleaning & Transformation  
-- **Excel/CSV** – For Data Source Management  
+- **Excel/SQL** – For Data Source Management     
 
 ---
 
@@ -104,7 +104,7 @@ A patient-level report that provides quick access to individual patient informat
 ---
 
 ## 💡 Project Highlights
-- Fully interactive Power BI report  
+- Fully interactive report  
 - Clear **navigation tabs** for Overview, Detail View, and Patient Search  
 - **Dynamic filtering** by chronic conditions, gender, state, and visit type  
 - Supports **drill-down analysis** for in-depth insights  
