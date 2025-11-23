@@ -32,6 +32,14 @@ This project was created in **Power BI** to help analyze and monitor **hospital 
 
 ## 🧠 Dashboard Insights
 
+### Excel Dashboard  
+<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Excel%20Dashboard.png" />
+
+
+---
+
+
+### Power BI Dashboard  
 ### 1️⃣ Overview Page  
 This page summarizes the overall healthcare statistics, including patient demographics, chronic conditions, and costs across the USA.
 
@@ -53,6 +61,13 @@ A patient-level report that provides quick access to individual patient informat
 <img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Patient%20Search%20Details.png" />
 
 ---
+### Tableau Dashboard
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Tableau%20Dashboard%201.png" />
+
+---
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Tableau%20Dashboard%202.png" />
+
+
 
 ## 🛠 Tools & Technologies
 - **Power BI** – Dashboard Creation & Data Visualization  
