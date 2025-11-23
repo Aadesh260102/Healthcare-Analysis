@@ -33,7 +33,7 @@ This project was created to help analyze and monitor **hospital performance, pat
 ## 🧠 Dashboard Insights
 
 ### Excel Dashboard  
-<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Excel%20Dashboard.png" />
+<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Excel%20Dashboard/Excel%20Dashboard.png" />
 
 
 ---
