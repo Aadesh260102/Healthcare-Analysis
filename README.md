@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:60px;">🏥 USA Healthcare Analysis Dashboard 🏥</h1>
+<h1 align="center" style="font-size:60px;">🏥 USA Healthcare Analysis 🏥</h1>
 
 ---
 
