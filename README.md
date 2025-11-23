@@ -43,7 +43,7 @@ This project was created to help analyze and monitor **hospital performance, pat
 ### 1️⃣ Overview Page  
 This page summarizes the overall healthcare statistics, including patient demographics, chronic conditions, and costs across the USA.
 
-<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/OVERVIEW.png" />
+<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Power%20Bi%20Dashboard/OVERVIEW.png" />
 
 
 ---
@@ -51,14 +51,14 @@ This page summarizes the overall healthcare statistics, including patient demogr
 ### 2️⃣ Detail View  
 This page highlights detailed analysis of lab results, doctor specialties, gender distribution, and medication prescriptions.
 
-<img width="1560" alt="Detail View Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/DETAILVIEW.png" />
+<img width="1560" alt="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Power%20Bi%20Dashboard/DETAILVIEW.png" />
 
 ---
 
 ### 3️⃣ Patient Search Details  
 A patient-level report that provides quick access to individual patient information, including medical history, allergies, chronic conditions, and visit details.
 
-<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Patient%20Search%20Details.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Power%20Bi%20Dashboard/Patient%20Search%20Details.png" />
 
 ---
 ### Tableau Dashboard
