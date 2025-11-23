@@ -51,7 +51,7 @@ This page summarizes the overall healthcare statistics, including patient demogr
 ### 2️⃣ Detail View  
 This page highlights detailed analysis of lab results, doctor specialties, gender distribution, and medication prescriptions.
 
-<img width="1560" alt="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Power%20Bi%20Dashboard/DETAILVIEW.png" />
+<img width="1560" alt="Overview Dashboard" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Power%20Bi%20Dashboard/DETAILVIEW.png" />
 
 ---
 
