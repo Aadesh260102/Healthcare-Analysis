@@ -67,6 +67,22 @@ A patient-level report that provides quick access to individual patient informat
 ---
 <img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Tableau%20Dashboard%202.png" />
 
+### Sql Quary for Data_Analysis
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%201.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%202.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%203.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%204.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%205.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%206.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%207.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%208.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%209.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%2010.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%2011.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%2012.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%2013.png" />
+<img width="1560" alt="Patient Search Details" src="https://github.com/Aadesh260102/Healthcare-Analysis/blob/main/Sql%20Quary%2014.png" />
+
 
 
 ## 🛠 Tools & Technologies
